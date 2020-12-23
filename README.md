@@ -5,8 +5,8 @@
 
   - Specifacations
 
-*CPU: Intel i5-4210U
-*GPU: Intel HD Graphics 4400
-*Wifi：Intel AC 3160
-*Sound: Realtek ALC255
-*Ethernet: RTL8139
+*CPU: Intel i5-4210U \n
+*GPU: Intel HD Graphics 4400 \n
+*Wifi：Intel AC 3160 \n
+*Sound: Realtek ALC255 \n
+*Ethernet: RTL8139 \n
